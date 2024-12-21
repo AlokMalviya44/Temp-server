@@ -1,6 +1,7 @@
 //this is the entry point and is used to start the server and connect to the database
 const app = require('./src/app')
 const http = require('http')
+const connect = require('./src/db/db')
 
 const server = http.createServer(app);
 //aisa isiliye kia bcz express se aage chalke problem ho sakti hai interact karne m 
