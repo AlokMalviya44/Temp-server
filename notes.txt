@@ -1,0 +1,15 @@
+how to write code in production 
+
+first run npm init instead of npm init -y
+
+and fill all the details and a package.json will be created 
+
+
+server.js is entry point file
+it is used for 2 works only isse server start hoga aur db se connect karenge 
+
+aur express ka sara code hum app.js m likhenge jo ki src folder  m hoga 
+
+http is module and express is a package
+jise install karo vo package and jo pehle se rahega vo module
+

@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "production-code",
+  "version": "1.0.0",
+  "description": "here we are going to learn how to write code on production",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
